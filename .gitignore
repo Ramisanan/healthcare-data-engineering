@@ -1,0 +1,9 @@
+.env
+cat > .gitignore << 'EOF'
+venv/
+__pycache__/
+*.pyc
+logs/
+*.db
+medical_raw_data/
+EOF
