@@ -2,17 +2,21 @@
 Healthcare Data Engineering Project
 Phase 1: Generate synthetic data and load directly into Oracle Database
 """
-
+import os
 import oracledb
 import random
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
 
-# ── Connection ───────────────────────────────────────────────────────────────
-conn = oracledb.connect(
-    user="system",
-    password="Health123",
-    dsn="localhost:1521/FREEPDB1"
-)
+load_dotenv()
+
+def get_connection():
+    return oracledb.connect(
+        user=os.getenv("ORACLE_USER"),
+        password=os.getenv("ORACLE_PASSWORD"),
+        dsn=os.getenv("ORACLE_DSN")
+    )
+
 cursor = conn.cursor()
 print("✅ Connected to Oracle Database")
 
