@@ -20,13 +20,13 @@ ingestion, transformation, analytics, CI/CD, and reporting.
 
 ## Project Phases
 
-| Phase | Description | Status |
-|---|---|---|
-| Phase 1 | Oracle 23ai setup + synthetic data generation (8,570 records) | ✅ Complete |
-| Phase 2 | ETL pipeline with 20+ data quality validation rules | ✅ Complete |
-| Phase 3 | SQL analytics with window functions and business insights | ✅ Complete |
-| Phase 4 | Azure DevOps CI/CD pipeline + 29 unit tests | ✅ Complete |
-| Phase 5 | Power BI dashboard with 4 report pages | ✅ Complete |
+| Phase | Description | 
+|---|---|
+| Phase 1 | Oracle 23ai setup + synthetic data generation (8,570 records) |
+| Phase 2 | ETL pipeline with 20+ data quality validation rules |
+| Phase 3 | SQL analytics with window functions and business insights |
+| Phase 4 | Azure DevOps CI/CD pipeline + 29 unit tests |
+| Phase 5 | Power BI dashboard with 4 report pages |
 
 ## Dataset Overview
 
@@ -48,15 +48,13 @@ ingestion, transformation, analytics, CI/CD, and reporting.
 - Power BI dashboard with sales, pharmacy, inventory and customer analytics
 - Full audit trail — every ETL run logged with timestamps
 
-## Power BI Dashboard
-
-[View Live Dashboard](ADD-YOUR-POWERBI-LINK-HERE)
 
 ### Dashboard Pages
-- **Page 1:** Sales Overview — revenue by store, monthly trends, payment methods
-- **Page 2:** Pharmacy Analytics — drug prescriptions, insurance breakdown
-- **Page 3:** Inventory Intelligence — stockout alerts, low stock warnings
-- **Page 4:** Customer Loyalty — loyalty vs non-loyalty spend analysis
+Page 1 — Sales Overview
+Shows pharmacy store performance across the network — top stores by revenue, monthly revenue trends throughout 2024, revenue breakdown by state, insurance provider claim distribution, and a KPI card showing $735.37K total revenue.
+
+Page 2 — Pharmacy & Inventory Analytics
+Shows operational insights — stockout alerts for products with zero inventory across stores, prescription volume by drug name (2,000 total prescriptions), and loyalty member vs non-member transaction breakdown by insurance provider.
 
 ## SQL Analytics
 
@@ -113,10 +111,9 @@ source venv/bin/activate
 pip install oracledb pandas sqlalchemy pytest python-dotenv
 4. Start Oracle in Docker
 docker start oracle-healthcare
-5. Create .env file
-echo "ORACLE_USER=system" > .env
-echo "ORACLE_PASSWORD=Health123" >> .env
-echo "ORACLE_DSN=localhost:1521/FREEPDB1" >> .env
+5. Create .env file with your credentials
+cp .env.example .env
+# Then edit .env with your own Oracle credentials
 Run the Pipeline
 Load data into Oracle
 python3 etl/phase1_oracle_loader.py
@@ -132,6 +129,3 @@ pytest tests/test_pipeline.py -v
 ### Author
 Ramisa Anan
 Data Engineer | MS Data Science & Analytics, Florida Atlantic University
-LinkedIn
-GitHub
-EOF
