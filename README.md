@@ -1,131 +1,295 @@
 # Healthcare Data Engineering Project
 
-End-to-end data engineering pipeline for a retail pharmacy environment.
-Built to demonstrate production-grade data engineering skills across
-ingestion, transformation, analytics, CI/CD, and reporting.
+An end-to-end data engineering project built for a retail pharmacy environment.
+
+This project demonstrates production-grade data engineering skills across data ingestion, transformation, validation, analytics, CI/CD automation, and Power BI reporting.
+
+## Project Overview
+
+The goal of this project is to simulate a real healthcare and retail pharmacy data environment using Oracle 23ai, Python ETL pipelines, SQL analytics, automated testing, Azure DevOps CI/CD, and Power BI dashboards.
+
+The project includes synthetic healthcare retail data, data quality validations, optimized SQL analytics, automated unit testing, and business intelligence reporting.
 
 ## Tech Stack
 
-| Tool | Purpose |
-|---|---|
-| Oracle 23ai | Source database (Docker) |
-| Python | ETL pipeline, data generation |
-| oracledb | Oracle database driver |
-| SQL / T-SQL | Analytics and optimization |
-| Azure DevOps | CI/CD pipeline (4 stages) |
-| pytest | Unit testing (29 tests) |
-| Power BI | Business intelligence dashboard |
-| Docker | Oracle database containerization |
-| Git / GitHub | Version control |
+| Tool         | Purpose                                    |
+| ------------ | ------------------------------------------ |
+| Oracle 23ai  | Source database running in Docker          |
+| Python       | ETL pipeline and synthetic data generation |
+| oracledb     | Oracle database connection driver          |
+| SQL / T-SQL  | Analytics and data transformation          |
+| Azure DevOps | CI/CD pipeline automation                  |
+| pytest       | Unit testing                               |
+| Power BI     | Business intelligence dashboard            |
+| Docker       | Oracle database containerization           |
+| Git / GitHub | Version control                            |
 
 ## Project Phases
 
-| Phase | Description | 
-|---|---|
-| Phase 1 | Oracle 23ai setup + synthetic data generation (8,570 records) |
-| Phase 2 | ETL pipeline with 20+ data quality validation rules |
-| Phase 3 | SQL analytics with window functions and business insights |
-| Phase 4 | Azure DevOps CI/CD pipeline + 29 unit tests |
-| Phase 5 | Power BI dashboard with 4 report pages |
+| Phase   | Description                                                                |
+| ------- | -------------------------------------------------------------------------- |
+| Phase 1 | Oracle 23ai setup and synthetic data generation                            |
+| Phase 2 | ETL pipeline with 20+ data quality validation rules                        |
+| Phase 3 | SQL analytics using window functions and business logic                    |
+| Phase 4 | Azure DevOps CI/CD pipeline with automated unit testing                    |
+| Phase 5 | Power BI dashboard with sales, pharmacy, inventory, and customer analytics |
 
 ## Dataset Overview
 
-| Table | Records | Description |
-|---|---|---|
-| store_locations | 20 | Pharmacy store master data |
-| products | 50 | Product catalog with pricing |
-| customers | 500 | Customer loyalty profiles |
-| sales_transactions | 5,000 | Point-of-sale transactions |
-| prescription_fills | 2,000 | Pharmacy prescription data |
-| inventory_levels | 1,000 | Store inventory snapshots |
+The project contains 8,570 synthetic records across 6 healthcare retail tables.
+
+| Table              | Records | Description                     |
+| ------------------ | ------: | ------------------------------- |
+| store_locations    |      20 | Pharmacy store master data      |
+| products           |      50 | Product catalog with pricing    |
+| customers          |     500 | Customer loyalty profiles       |
+| sales_transactions |   5,000 | Point-of-sale transaction data  |
+| prescription_fills |   2,000 | Pharmacy prescription fill data |
+| inventory_levels   |   1,000 | Store inventory snapshot data   |
 
 ## Key Achievements
 
-- 8,570 records loaded into Oracle 23ai running in Docker
-- 20+ data quality validation rules across 6 tables
-- 29 unit tests — all passing in 0.10 seconds
-- 4-stage CI/CD pipeline — fully automated on every push
-- Power BI dashboard with sales, pharmacy, inventory and customer analytics
-- Full audit trail — every ETL run logged with timestamps
+* Loaded 8,570 records into Oracle 23ai running in Docker
+* Built an ETL pipeline with 20+ data quality validation rules
+* Created 15 optimized SQL analytics queries
+* Implemented 29 pytest unit tests
+* Built a 4-stage Azure DevOps CI/CD pipeline
+* Created a Power BI dashboard with 4 report pages
+* Added a full ETL audit trail with run timestamps and logging
 
+## Data Quality Validation
 
-### Dashboard Pages
-Page 1 — Sales Overview
-Shows pharmacy store performance across the network — top stores by revenue, monthly revenue trends throughout 2024, revenue breakdown by state, insurance provider claim distribution, and a KPI card showing $735.37K total revenue.
+The ETL pipeline includes validation rules across all 6 tables.
 
-Page 2 — Pharmacy & Inventory Analytics
-Shows operational insights — stockout alerts for products with zero inventory across stores, prescription volume by drug name (2,000 total prescriptions), and loyalty member vs non-member transaction breakdown by insurance provider.
+Examples of validations include:
+
+* Null checks for required fields
+* Duplicate record checks
+* Price and quantity validation
+* Inventory level validation
+* Date range validation
+* Foreign key relationship checks
+* Loyalty member validation
+* Prescription data consistency checks
+* Transaction amount validation
 
 ## SQL Analytics
 
-15 optimized queries covering:
-- Revenue ranking with window functions
-- Month-over-month trends with LAG()
-- Running totals with SUM() OVER()
-- Stockout rate by region
-- Customer lifetime value
+The project includes 15 optimized SQL queries for business analysis.
+
+Key analytics include:
+
+* Store revenue ranking using window functions
+* Month-over-month revenue trends using `LAG()`
+* Running revenue totals using `SUM() OVER()`
+* Stockout rate by region
+* Customer lifetime value analysis
+* Prescription volume by drug name
+* Revenue by state
+* Insurance provider claim distribution
+* Loyalty member vs non-member sales analysis
+
+## Power BI Dashboard
+
+The Power BI dashboard provides business insights across sales, pharmacy, inventory, and customer data.
+
+### Page 1: Sales Overview
+
+This page shows pharmacy store performance across the retail network.
+
+Key visuals include:
+
+* Total revenue KPI card
+* Top stores by revenue
+* Monthly revenue trend for 2024
+* Revenue breakdown by state
+* Insurance provider claim distribution
+
+Key metric:
+
+* Total revenue: **$735.37K**
+
+### Page 2: Pharmacy & Inventory Analytics
+
+This page focuses on pharmacy operations and inventory insights.
+
+Key visuals include:
+
+* Stockout alerts for products with zero inventory
+* Prescription volume by drug name
+* Total prescription count
+* Loyalty member vs non-member transaction breakdown
+* Insurance provider analysis
+
+Key metric:
+
+* Total prescriptions: **2,000**
 
 ## CI/CD Pipeline
 
-4 automated stages on every GitHub push:
-1. **Code Quality** — flake8 linting
-2. **Unit Tests** — pytest (29 tests)
-3. **Build** — artifact packaging
-4. **Deploy** — production deployment
+The project uses Azure DevOps to automate quality checks, testing, build, and deployment on every GitHub push.
+
+### Pipeline Stages
+
+| Stage        | Description                     |
+| ------------ | ------------------------------- |
+| Code Quality | Runs flake8 linting             |
+| Unit Tests   | Runs pytest test suite          |
+| Build        | Packages project artifacts      |
+| Deploy       | Simulates production deployment |
+
+All 29 unit tests pass successfully.
+
+```bash
+29 passed in 0.10s
+```
 
 ## Project Structure
-'''
+
+```text
 healthcare-data-engineering/
 ├── etl/
-│   ├── phase1_oracle_loader.py  ← generates and loads data into Oracle
-│   └── pipeline.py              ← ETL pipeline with validation rules
+│   ├── phase1_oracle_loader.py      # Generates and loads synthetic data into Oracle
+│   └── pipeline.py                  # ETL pipeline with validation rules
+│
 ├── sql/
-│   ├── analytics.sql            ← 15 optimized SQL queries
-│   └── run_analytics.py         ← analytics runner
+│   ├── analytics.sql                # 15 optimized SQL analytics queries
+│   └── run_analytics.py             # Runs analytics queries
+│
 ├── tests/
-│   └── test_pipeline.py         ← 29 unit tests
+│   └── test_pipeline.py             # 29 unit tests
+│
 ├── reports/
-│   ├── export_for_powerbi.py    ← exports Oracle data for Power BI
-│   └── dashboard_screenshots/   ← Power BI dashboard screenshots
-├── .env                         ← credentials (not in GitHub)
-├── .gitignore                   ← excludes sensitive files
-├── azure-pipelines.yml          ← Azure DevOps CI/CD pipeline
-└── README.md                    ← this file
-'''
+│   ├── export_for_powerbi.py        # Exports Oracle data for Power BI
+│   └── dashboard_screenshots/       # Power BI dashboard screenshots
+│
+├── .env.example                     # Example environment file
+├── .gitignore                       # Excludes sensitive and unnecessary files
+├── azure-pipelines.yml              # Azure DevOps CI/CD pipeline
+└── README.md                        # Project documentation
+```
 
-How to Run Locally
-Prerequisites
+## How to Run Locally
 
-Python 3.12+
-Docker Desktop
-Oracle 23ai container running
+### Prerequisites
 
-### Setup
-1. Clone the repo
+Make sure the following tools are installed:
+
+* Python 3.12+
+* Docker Desktop
+* Oracle 23ai Docker container
+* Git
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/Ramisanan/healthcare-data-engineering.git
 cd healthcare-data-engineering
-2. Create virtual environment
+```
+
+### 2. Create a Virtual Environment
+
+```bash
 python3 -m venv venv
 source venv/bin/activate
-3. Install dependencies
-pip install oracledb pandas sqlalchemy pytest python-dotenv
-4. Start Oracle in Docker
-docker start oracle-healthcare
-5. Create .env file with your credentials
-cp .env.example .env
-# Then edit .env with your own Oracle credentials
-Run the Pipeline
-Load data into Oracle
-python3 etl/phase1_oracle_loader.py
-Run ETL pipeline
-python3 etl/pipeline.py
-Run SQL analytics
-python3 sql/run_analytics.py
-Export data for Power BI
-python3 reports/export_for_powerbi.py
-Run unit tests
-pytest tests/test_pipeline.py -v
+```
 
-### Author
-Ramisa Anan
-Data Engineer | MS Data Science & Analytics, Florida Atlantic University
+For Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install oracledb pandas sqlalchemy pytest python-dotenv
+```
+
+### 4. Start Oracle 23ai Docker Container
+
+```bash
+docker start oracle-healthcare
+```
+
+### 5. Create Environment File
+
+```bash
+cp .env.example .env
+```
+
+Then update the `.env` file with your Oracle database credentials.
+
+Example:
+
+```env
+ORACLE_USER=your_username
+ORACLE_PASSWORD=your_password
+ORACLE_DSN=localhost:1521/FREEPDB1
+```
+
+## Running the Project
+
+### Load Synthetic Data into Oracle
+
+```bash
+python3 etl/phase1_oracle_loader.py
+```
+
+### Run the ETL Pipeline
+
+```bash
+python3 etl/pipeline.py
+```
+
+### Run SQL Analytics
+
+```bash
+python3 sql/run_analytics.py
+```
+
+### Export Data for Power BI
+
+```bash
+python3 reports/export_for_powerbi.py
+```
+
+### Run Unit Tests
+
+```bash
+pytest tests/test_pipeline.py -v
+```
+
+## Sample Business Insights
+
+This project helps answer questions such as:
+
+* Which pharmacy stores generate the highest revenue?
+* How does revenue trend month over month?
+* Which regions have the highest stockout rate?
+* Which drugs have the highest prescription volume?
+* How do loyalty members compare with non-members?
+* Which insurance providers contribute the most claims?
+
+## Security Notes
+
+Sensitive files are excluded from GitHub using `.gitignore`.
+
+Examples of excluded files:
+
+* `.env`
+* Database credentials
+* Local environment files
+* Temporary files
+* Python cache folders
+
+Use `.env.example` as a template and never commit real credentials.
+
+## Author
+
+**Ramisa Anan**
+Data Engineer
+MS Data Science & Analytics, Florida Atlantic University
