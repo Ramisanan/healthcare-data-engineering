@@ -6,4 +6,4 @@ __pycache__/
 logs/
 *.db
 medical_raw_data/
-EOF
+EOF.DS_Store
