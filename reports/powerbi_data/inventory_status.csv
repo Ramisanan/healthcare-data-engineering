@@ -1,0 +1,1001 @@
+STORE_ID,STORE_NAME,REGION,PRODUCT_NAME,CATEGORY,QUANTITY_ON_HAND,REORDER_POINT,UNITS_SOLD_30D,STOCKOUT_FLAG,LOW_STOCK_FLAG
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 1,Household,10,39,92,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 2,Personal Care,162,34,4,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 3,Household,29,21,122,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 4,Personal Care,137,24,63,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 5,Personal Care,192,13,149,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 6,Health Devices,19,11,50,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 7,Health Devices,2,23,38,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,OTC Medicine Item 8,OTC Medicine,142,12,149,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 9,Vitamins,15,22,86,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 10,Personal Care,192,38,46,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 11,Health Devices,155,10,96,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Snacks Item 12,Snacks,160,31,65,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 13,Vitamins,42,17,6,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 14,Vitamins,172,21,11,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Baby Care Item 15,Baby Care,0,37,131,Y,N
+STR0001,CVS Pharmacy #1001,Midwest,Beauty Item 16,Beauty,140,33,17,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 17,Household,50,32,105,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Seasonal Item 18,Seasonal,67,18,38,N,N
+STR0001,CVS Pharmacy #1001,Midwest,OTC Medicine Item 19,OTC Medicine,13,22,36,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 20,Vitamins,149,19,105,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 21,Personal Care,3,10,146,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Seasonal Item 22,Seasonal,29,20,34,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 23,Household,129,17,142,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Beauty Item 24,Beauty,8,20,3,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,OTC Medicine Item 25,OTC Medicine,172,18,50,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Beauty Item 26,Beauty,81,23,60,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 27,Personal Care,115,13,63,N,N
+STR0001,CVS Pharmacy #1001,Midwest,OTC Medicine Item 28,OTC Medicine,153,33,84,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Snacks Item 29,Snacks,71,17,130,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Snacks Item 30,Snacks,71,27,55,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 31,Vitamins,101,31,50,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Baby Care Item 32,Baby Care,155,11,130,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 33,Health Devices,84,23,98,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Snacks Item 34,Snacks,142,14,49,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 35,Vitamins,5,32,121,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Seasonal Item 36,Seasonal,34,33,88,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Baby Care Item 37,Baby Care,72,35,74,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 38,Health Devices,164,33,20,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 39,Health Devices,105,30,101,N,N
+STR0001,CVS Pharmacy #1001,Midwest,OTC Medicine Item 40,OTC Medicine,103,33,107,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 41,Personal Care,49,24,36,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 42,Vitamins,1,21,91,N,Y
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 43,Household,168,26,27,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 44,Household,104,29,55,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Vitamins Item 45,Vitamins,152,40,44,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Snacks Item 46,Snacks,128,12,119,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Personal Care Item 47,Personal Care,158,36,17,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 48,Household,159,28,22,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Household Item 49,Household,155,34,77,N,N
+STR0001,CVS Pharmacy #1001,Midwest,Health Devices Item 50,Health Devices,5,36,9,N,Y
+STR0002,CVS Pharmacy #1002,South,Household Item 1,Household,26,35,143,N,Y
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 2,Personal Care,55,31,129,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 3,Household,111,35,78,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 4,Personal Care,183,35,30,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 5,Personal Care,189,32,46,N,N
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 6,Health Devices,150,27,75,N,N
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 7,Health Devices,45,15,109,N,N
+STR0002,CVS Pharmacy #1002,South,OTC Medicine Item 8,OTC Medicine,76,34,4,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 9,Vitamins,109,36,93,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 10,Personal Care,11,18,56,N,Y
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 11,Health Devices,156,24,14,N,N
+STR0002,CVS Pharmacy #1002,South,Snacks Item 12,Snacks,158,21,122,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 13,Vitamins,73,11,62,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 14,Vitamins,29,34,148,N,Y
+STR0002,CVS Pharmacy #1002,South,Baby Care Item 15,Baby Care,22,26,131,N,Y
+STR0002,CVS Pharmacy #1002,South,Beauty Item 16,Beauty,65,32,62,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 17,Household,99,17,17,N,N
+STR0002,CVS Pharmacy #1002,South,Seasonal Item 18,Seasonal,30,26,122,N,N
+STR0002,CVS Pharmacy #1002,South,OTC Medicine Item 19,OTC Medicine,151,40,31,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 20,Vitamins,177,16,134,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 21,Personal Care,22,24,80,N,Y
+STR0002,CVS Pharmacy #1002,South,Seasonal Item 22,Seasonal,163,33,101,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 23,Household,75,34,127,N,N
+STR0002,CVS Pharmacy #1002,South,Beauty Item 24,Beauty,22,35,143,N,Y
+STR0002,CVS Pharmacy #1002,South,OTC Medicine Item 25,OTC Medicine,172,27,18,N,N
+STR0002,CVS Pharmacy #1002,South,Beauty Item 26,Beauty,47,12,124,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 27,Personal Care,75,22,150,N,N
+STR0002,CVS Pharmacy #1002,South,OTC Medicine Item 28,OTC Medicine,121,28,144,N,N
+STR0002,CVS Pharmacy #1002,South,Snacks Item 29,Snacks,100,29,134,N,N
+STR0002,CVS Pharmacy #1002,South,Snacks Item 30,Snacks,187,21,150,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 31,Vitamins,71,30,7,N,N
+STR0002,CVS Pharmacy #1002,South,Baby Care Item 32,Baby Care,7,19,27,N,Y
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 33,Health Devices,107,33,89,N,N
+STR0002,CVS Pharmacy #1002,South,Snacks Item 34,Snacks,101,31,11,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 35,Vitamins,124,39,55,N,N
+STR0002,CVS Pharmacy #1002,South,Seasonal Item 36,Seasonal,31,10,57,N,N
+STR0002,CVS Pharmacy #1002,South,Baby Care Item 37,Baby Care,68,25,144,N,N
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 38,Health Devices,82,31,26,N,N
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 39,Health Devices,36,16,137,N,N
+STR0002,CVS Pharmacy #1002,South,OTC Medicine Item 40,OTC Medicine,101,10,110,N,N
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 41,Personal Care,12,19,19,N,Y
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 42,Vitamins,34,37,120,N,Y
+STR0002,CVS Pharmacy #1002,South,Household Item 43,Household,152,28,75,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 44,Household,193,13,133,N,N
+STR0002,CVS Pharmacy #1002,South,Vitamins Item 45,Vitamins,46,38,58,N,N
+STR0002,CVS Pharmacy #1002,South,Snacks Item 46,Snacks,14,26,94,N,Y
+STR0002,CVS Pharmacy #1002,South,Personal Care Item 47,Personal Care,42,37,149,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 48,Household,76,28,88,N,N
+STR0002,CVS Pharmacy #1002,South,Household Item 49,Household,30,25,15,N,N
+STR0002,CVS Pharmacy #1002,South,Health Devices Item 50,Health Devices,152,29,107,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 1,Household,47,11,135,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 2,Personal Care,62,39,125,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 3,Household,88,37,109,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 4,Personal Care,76,39,9,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 5,Personal Care,45,28,77,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 6,Health Devices,13,38,66,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 7,Health Devices,92,29,42,N,N
+STR0003,CVS Pharmacy #1003,Northeast,OTC Medicine Item 8,OTC Medicine,34,15,20,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 9,Vitamins,161,27,118,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 10,Personal Care,146,22,1,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 11,Health Devices,133,26,2,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Snacks Item 12,Snacks,50,26,129,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 13,Vitamins,163,33,113,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 14,Vitamins,142,33,27,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Baby Care Item 15,Baby Care,152,34,129,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Beauty Item 16,Beauty,6,15,148,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 17,Household,4,18,17,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Seasonal Item 18,Seasonal,198,32,16,N,N
+STR0003,CVS Pharmacy #1003,Northeast,OTC Medicine Item 19,OTC Medicine,129,34,45,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 20,Vitamins,185,13,94,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 21,Personal Care,157,27,29,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Seasonal Item 22,Seasonal,23,23,2,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 23,Household,39,26,76,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Beauty Item 24,Beauty,141,31,8,N,N
+STR0003,CVS Pharmacy #1003,Northeast,OTC Medicine Item 25,OTC Medicine,161,19,51,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Beauty Item 26,Beauty,149,11,117,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 27,Personal Care,4,29,34,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,OTC Medicine Item 28,OTC Medicine,141,23,132,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Snacks Item 29,Snacks,113,25,45,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Snacks Item 30,Snacks,64,33,122,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 31,Vitamins,120,29,102,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Baby Care Item 32,Baby Care,101,35,103,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 33,Health Devices,197,10,30,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Snacks Item 34,Snacks,172,33,10,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 35,Vitamins,6,40,113,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Seasonal Item 36,Seasonal,46,36,80,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Baby Care Item 37,Baby Care,71,31,20,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 38,Health Devices,158,40,49,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 39,Health Devices,110,24,63,N,N
+STR0003,CVS Pharmacy #1003,Northeast,OTC Medicine Item 40,OTC Medicine,172,13,74,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 41,Personal Care,26,17,27,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 42,Vitamins,5,36,19,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 43,Household,29,12,86,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 44,Household,42,40,112,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Vitamins Item 45,Vitamins,154,20,79,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Snacks Item 46,Snacks,179,15,48,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Personal Care Item 47,Personal Care,37,19,76,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 48,Household,1,37,84,N,Y
+STR0003,CVS Pharmacy #1003,Northeast,Household Item 49,Household,54,22,60,N,N
+STR0003,CVS Pharmacy #1003,Northeast,Health Devices Item 50,Health Devices,26,35,86,N,Y
+STR0004,CVS Pharmacy #1004,South,Household Item 1,Household,169,33,81,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 2,Personal Care,131,40,13,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 3,Household,52,21,36,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 4,Personal Care,140,14,88,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 5,Personal Care,188,37,139,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 6,Health Devices,21,22,59,N,Y
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 7,Health Devices,164,27,15,N,N
+STR0004,CVS Pharmacy #1004,South,OTC Medicine Item 8,OTC Medicine,19,34,109,N,Y
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 9,Vitamins,190,39,43,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 10,Personal Care,138,38,125,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 11,Health Devices,117,35,131,N,N
+STR0004,CVS Pharmacy #1004,South,Snacks Item 12,Snacks,177,38,104,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 13,Vitamins,32,15,11,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 14,Vitamins,169,39,143,N,N
+STR0004,CVS Pharmacy #1004,South,Baby Care Item 15,Baby Care,178,18,27,N,N
+STR0004,CVS Pharmacy #1004,South,Beauty Item 16,Beauty,120,10,95,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 17,Household,68,22,87,N,N
+STR0004,CVS Pharmacy #1004,South,Seasonal Item 18,Seasonal,28,10,74,N,N
+STR0004,CVS Pharmacy #1004,South,OTC Medicine Item 19,OTC Medicine,105,31,73,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 20,Vitamins,3,21,20,N,Y
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 21,Personal Care,154,19,116,N,N
+STR0004,CVS Pharmacy #1004,South,Seasonal Item 22,Seasonal,92,15,80,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 23,Household,32,28,93,N,N
+STR0004,CVS Pharmacy #1004,South,Beauty Item 24,Beauty,71,12,0,N,N
+STR0004,CVS Pharmacy #1004,South,OTC Medicine Item 25,OTC Medicine,22,20,2,N,N
+STR0004,CVS Pharmacy #1004,South,Beauty Item 26,Beauty,175,31,74,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 27,Personal Care,115,15,75,N,N
+STR0004,CVS Pharmacy #1004,South,OTC Medicine Item 28,OTC Medicine,94,32,116,N,N
+STR0004,CVS Pharmacy #1004,South,Snacks Item 29,Snacks,132,33,85,N,N
+STR0004,CVS Pharmacy #1004,South,Snacks Item 30,Snacks,63,31,118,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 31,Vitamins,198,27,138,N,N
+STR0004,CVS Pharmacy #1004,South,Baby Care Item 32,Baby Care,129,14,83,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 33,Health Devices,107,14,145,N,N
+STR0004,CVS Pharmacy #1004,South,Snacks Item 34,Snacks,72,13,38,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 35,Vitamins,169,16,28,N,N
+STR0004,CVS Pharmacy #1004,South,Seasonal Item 36,Seasonal,61,17,141,N,N
+STR0004,CVS Pharmacy #1004,South,Baby Care Item 37,Baby Care,104,23,135,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 38,Health Devices,188,26,91,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 39,Health Devices,22,15,20,N,N
+STR0004,CVS Pharmacy #1004,South,OTC Medicine Item 40,OTC Medicine,178,39,8,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 41,Personal Care,68,34,105,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 42,Vitamins,65,18,66,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 43,Household,183,12,105,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 44,Household,163,11,53,N,N
+STR0004,CVS Pharmacy #1004,South,Vitamins Item 45,Vitamins,104,34,86,N,N
+STR0004,CVS Pharmacy #1004,South,Snacks Item 46,Snacks,65,10,70,N,N
+STR0004,CVS Pharmacy #1004,South,Personal Care Item 47,Personal Care,136,28,148,N,N
+STR0004,CVS Pharmacy #1004,South,Household Item 48,Household,9,12,65,N,Y
+STR0004,CVS Pharmacy #1004,South,Household Item 49,Household,178,30,126,N,N
+STR0004,CVS Pharmacy #1004,South,Health Devices Item 50,Health Devices,15,20,28,N,Y
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 1,Household,154,32,113,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 2,Personal Care,168,31,40,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 3,Household,167,10,83,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 4,Personal Care,182,32,128,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 5,Personal Care,193,27,14,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 6,Health Devices,61,38,123,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 7,Health Devices,55,32,25,N,N
+STR0005,CVS Pharmacy #1005,Southeast,OTC Medicine Item 8,OTC Medicine,156,28,72,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 9,Vitamins,137,12,65,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 10,Personal Care,152,10,30,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 11,Health Devices,195,39,54,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Snacks Item 12,Snacks,127,10,101,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 13,Vitamins,47,20,31,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 14,Vitamins,123,17,101,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Baby Care Item 15,Baby Care,164,25,18,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Beauty Item 16,Beauty,128,28,16,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 17,Household,128,40,95,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Seasonal Item 18,Seasonal,96,32,138,N,N
+STR0005,CVS Pharmacy #1005,Southeast,OTC Medicine Item 19,OTC Medicine,189,19,20,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 20,Vitamins,23,12,53,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 21,Personal Care,81,14,35,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Seasonal Item 22,Seasonal,110,28,105,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 23,Household,146,36,13,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Beauty Item 24,Beauty,30,22,66,N,N
+STR0005,CVS Pharmacy #1005,Southeast,OTC Medicine Item 25,OTC Medicine,181,30,69,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Beauty Item 26,Beauty,144,40,10,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 27,Personal Care,0,17,25,Y,N
+STR0005,CVS Pharmacy #1005,Southeast,OTC Medicine Item 28,OTC Medicine,192,30,13,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Snacks Item 29,Snacks,175,31,129,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Snacks Item 30,Snacks,192,18,96,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 31,Vitamins,38,10,50,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Baby Care Item 32,Baby Care,145,34,88,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 33,Health Devices,115,12,50,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Snacks Item 34,Snacks,41,30,141,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 35,Vitamins,99,39,122,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Seasonal Item 36,Seasonal,168,40,145,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Baby Care Item 37,Baby Care,110,11,111,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 38,Health Devices,37,18,74,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 39,Health Devices,143,17,134,N,N
+STR0005,CVS Pharmacy #1005,Southeast,OTC Medicine Item 40,OTC Medicine,87,13,125,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 41,Personal Care,130,17,108,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 42,Vitamins,103,11,59,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 43,Household,155,26,23,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 44,Household,159,15,141,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Vitamins Item 45,Vitamins,85,29,143,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Snacks Item 46,Snacks,19,23,14,N,Y
+STR0005,CVS Pharmacy #1005,Southeast,Personal Care Item 47,Personal Care,167,13,131,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 48,Household,39,29,97,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Household Item 49,Household,58,36,98,N,N
+STR0005,CVS Pharmacy #1005,Southeast,Health Devices Item 50,Health Devices,184,39,139,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 1,Household,97,36,19,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 2,Personal Care,95,12,128,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 3,Household,76,36,119,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 4,Personal Care,20,30,136,N,Y
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 5,Personal Care,25,39,65,N,Y
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 6,Health Devices,109,13,112,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 7,Health Devices,105,20,37,N,N
+STR0006,CVS Pharmacy #1006,West,OTC Medicine Item 8,OTC Medicine,51,21,100,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 9,Vitamins,79,30,46,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 10,Personal Care,91,22,69,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 11,Health Devices,33,26,81,N,N
+STR0006,CVS Pharmacy #1006,West,Snacks Item 12,Snacks,26,18,9,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 13,Vitamins,118,39,102,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 14,Vitamins,27,21,23,N,N
+STR0006,CVS Pharmacy #1006,West,Baby Care Item 15,Baby Care,5,27,74,N,Y
+STR0006,CVS Pharmacy #1006,West,Beauty Item 16,Beauty,197,11,82,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 17,Household,95,19,111,N,N
+STR0006,CVS Pharmacy #1006,West,Seasonal Item 18,Seasonal,56,21,82,N,N
+STR0006,CVS Pharmacy #1006,West,OTC Medicine Item 19,OTC Medicine,148,32,121,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 20,Vitamins,21,14,28,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 21,Personal Care,77,12,124,N,N
+STR0006,CVS Pharmacy #1006,West,Seasonal Item 22,Seasonal,54,11,93,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 23,Household,61,21,33,N,N
+STR0006,CVS Pharmacy #1006,West,Beauty Item 24,Beauty,39,39,113,N,Y
+STR0006,CVS Pharmacy #1006,West,OTC Medicine Item 25,OTC Medicine,125,24,8,N,N
+STR0006,CVS Pharmacy #1006,West,Beauty Item 26,Beauty,141,21,17,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 27,Personal Care,69,27,140,N,N
+STR0006,CVS Pharmacy #1006,West,OTC Medicine Item 28,OTC Medicine,29,12,130,N,N
+STR0006,CVS Pharmacy #1006,West,Snacks Item 29,Snacks,92,19,94,N,N
+STR0006,CVS Pharmacy #1006,West,Snacks Item 30,Snacks,65,10,6,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 31,Vitamins,53,39,2,N,N
+STR0006,CVS Pharmacy #1006,West,Baby Care Item 32,Baby Care,86,40,147,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 33,Health Devices,45,25,0,N,N
+STR0006,CVS Pharmacy #1006,West,Snacks Item 34,Snacks,170,23,39,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 35,Vitamins,3,21,130,N,Y
+STR0006,CVS Pharmacy #1006,West,Seasonal Item 36,Seasonal,33,16,143,N,N
+STR0006,CVS Pharmacy #1006,West,Baby Care Item 37,Baby Care,146,18,134,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 38,Health Devices,182,34,11,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 39,Health Devices,187,25,119,N,N
+STR0006,CVS Pharmacy #1006,West,OTC Medicine Item 40,OTC Medicine,22,35,41,N,Y
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 41,Personal Care,130,11,40,N,N
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 42,Vitamins,117,18,135,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 43,Household,11,17,21,N,Y
+STR0006,CVS Pharmacy #1006,West,Household Item 44,Household,31,40,93,N,Y
+STR0006,CVS Pharmacy #1006,West,Vitamins Item 45,Vitamins,48,24,18,N,N
+STR0006,CVS Pharmacy #1006,West,Snacks Item 46,Snacks,112,24,124,N,N
+STR0006,CVS Pharmacy #1006,West,Personal Care Item 47,Personal Care,164,33,60,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 48,Household,94,31,9,N,N
+STR0006,CVS Pharmacy #1006,West,Household Item 49,Household,23,13,84,N,N
+STR0006,CVS Pharmacy #1006,West,Health Devices Item 50,Health Devices,169,34,101,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 1,Household,16,24,37,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 2,Personal Care,94,30,96,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 3,Household,174,39,73,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 4,Personal Care,33,15,49,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 5,Personal Care,50,10,126,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 6,Health Devices,7,19,140,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 7,Health Devices,3,18,55,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,OTC Medicine Item 8,OTC Medicine,47,36,127,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 9,Vitamins,126,14,45,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 10,Personal Care,119,24,5,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 11,Health Devices,125,22,141,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Snacks Item 12,Snacks,146,29,142,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 13,Vitamins,127,21,99,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 14,Vitamins,126,23,64,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Baby Care Item 15,Baby Care,129,35,23,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Beauty Item 16,Beauty,85,34,100,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 17,Household,47,31,70,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Seasonal Item 18,Seasonal,148,20,98,N,N
+STR0007,CVS Pharmacy #1007,Northeast,OTC Medicine Item 19,OTC Medicine,106,10,7,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 20,Vitamins,71,35,20,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 21,Personal Care,28,37,117,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Seasonal Item 22,Seasonal,133,36,123,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 23,Household,19,34,73,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Beauty Item 24,Beauty,82,31,148,N,N
+STR0007,CVS Pharmacy #1007,Northeast,OTC Medicine Item 25,OTC Medicine,10,21,89,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Beauty Item 26,Beauty,131,24,69,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 27,Personal Care,3,15,40,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,OTC Medicine Item 28,OTC Medicine,139,33,143,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Snacks Item 29,Snacks,21,12,80,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Snacks Item 30,Snacks,155,13,15,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 31,Vitamins,144,13,119,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Baby Care Item 32,Baby Care,186,26,147,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 33,Health Devices,96,36,131,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Snacks Item 34,Snacks,3,33,79,N,Y
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 35,Vitamins,154,24,75,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Seasonal Item 36,Seasonal,129,35,94,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Baby Care Item 37,Baby Care,47,36,59,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 38,Health Devices,153,20,8,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 39,Health Devices,103,11,35,N,N
+STR0007,CVS Pharmacy #1007,Northeast,OTC Medicine Item 40,OTC Medicine,126,21,46,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 41,Personal Care,160,26,130,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 42,Vitamins,94,10,120,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 43,Household,50,33,145,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 44,Household,197,30,65,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Vitamins Item 45,Vitamins,64,23,44,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Snacks Item 46,Snacks,136,28,92,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Personal Care Item 47,Personal Care,50,11,98,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 48,Household,0,38,64,Y,N
+STR0007,CVS Pharmacy #1007,Northeast,Household Item 49,Household,192,18,32,N,N
+STR0007,CVS Pharmacy #1007,Northeast,Health Devices Item 50,Health Devices,183,17,72,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 1,Household,115,18,105,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 2,Personal Care,8,24,17,N,Y
+STR0008,CVS Pharmacy #1008,South,Household Item 3,Household,44,17,81,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 4,Personal Care,178,33,95,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 5,Personal Care,169,23,8,N,N
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 6,Health Devices,29,30,13,N,Y
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 7,Health Devices,130,40,105,N,N
+STR0008,CVS Pharmacy #1008,South,OTC Medicine Item 8,OTC Medicine,167,22,34,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 9,Vitamins,159,15,31,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 10,Personal Care,41,22,125,N,N
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 11,Health Devices,32,32,30,N,Y
+STR0008,CVS Pharmacy #1008,South,Snacks Item 12,Snacks,196,24,125,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 13,Vitamins,46,24,136,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 14,Vitamins,29,10,131,N,N
+STR0008,CVS Pharmacy #1008,South,Baby Care Item 15,Baby Care,89,14,66,N,N
+STR0008,CVS Pharmacy #1008,South,Beauty Item 16,Beauty,54,21,141,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 17,Household,80,25,72,N,N
+STR0008,CVS Pharmacy #1008,South,Seasonal Item 18,Seasonal,169,28,39,N,N
+STR0008,CVS Pharmacy #1008,South,OTC Medicine Item 19,OTC Medicine,166,34,105,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 20,Vitamins,100,31,47,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 21,Personal Care,180,33,131,N,N
+STR0008,CVS Pharmacy #1008,South,Seasonal Item 22,Seasonal,128,36,97,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 23,Household,133,30,129,N,N
+STR0008,CVS Pharmacy #1008,South,Beauty Item 24,Beauty,46,39,57,N,N
+STR0008,CVS Pharmacy #1008,South,OTC Medicine Item 25,OTC Medicine,177,26,84,N,N
+STR0008,CVS Pharmacy #1008,South,Beauty Item 26,Beauty,88,18,105,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 27,Personal Care,67,15,78,N,N
+STR0008,CVS Pharmacy #1008,South,OTC Medicine Item 28,OTC Medicine,132,11,40,N,N
+STR0008,CVS Pharmacy #1008,South,Snacks Item 29,Snacks,76,18,43,N,N
+STR0008,CVS Pharmacy #1008,South,Snacks Item 30,Snacks,195,15,57,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 31,Vitamins,135,28,7,N,N
+STR0008,CVS Pharmacy #1008,South,Baby Care Item 32,Baby Care,3,30,38,N,Y
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 33,Health Devices,189,17,119,N,N
+STR0008,CVS Pharmacy #1008,South,Snacks Item 34,Snacks,133,21,137,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 35,Vitamins,131,10,24,N,N
+STR0008,CVS Pharmacy #1008,South,Seasonal Item 36,Seasonal,189,39,123,N,N
+STR0008,CVS Pharmacy #1008,South,Baby Care Item 37,Baby Care,94,34,103,N,N
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 38,Health Devices,22,25,141,N,Y
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 39,Health Devices,28,37,81,N,Y
+STR0008,CVS Pharmacy #1008,South,OTC Medicine Item 40,OTC Medicine,62,11,79,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 41,Personal Care,170,35,42,N,N
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 42,Vitamins,47,35,119,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 43,Household,25,10,117,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 44,Household,3,14,11,N,Y
+STR0008,CVS Pharmacy #1008,South,Vitamins Item 45,Vitamins,14,30,0,N,Y
+STR0008,CVS Pharmacy #1008,South,Snacks Item 46,Snacks,162,14,62,N,N
+STR0008,CVS Pharmacy #1008,South,Personal Care Item 47,Personal Care,69,37,30,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 48,Household,69,15,59,N,N
+STR0008,CVS Pharmacy #1008,South,Household Item 49,Household,17,16,50,N,N
+STR0008,CVS Pharmacy #1008,South,Health Devices Item 50,Health Devices,97,30,92,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 1,Household,117,27,139,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 2,Personal Care,100,17,31,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 3,Household,57,13,68,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 4,Personal Care,115,17,55,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 5,Personal Care,177,24,24,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 6,Health Devices,142,23,63,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 7,Health Devices,7,37,66,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,OTC Medicine Item 8,OTC Medicine,121,30,33,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 9,Vitamins,25,40,131,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 10,Personal Care,138,34,130,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 11,Health Devices,12,37,20,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Snacks Item 12,Snacks,72,26,111,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 13,Vitamins,158,22,28,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 14,Vitamins,55,28,50,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Baby Care Item 15,Baby Care,86,28,47,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Beauty Item 16,Beauty,160,36,27,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 17,Household,178,12,85,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Seasonal Item 18,Seasonal,32,15,25,N,N
+STR0009,CVS Pharmacy #1009,Northeast,OTC Medicine Item 19,OTC Medicine,129,24,132,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 20,Vitamins,12,17,140,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 21,Personal Care,56,14,59,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Seasonal Item 22,Seasonal,7,16,126,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 23,Household,102,28,115,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Beauty Item 24,Beauty,120,29,73,N,N
+STR0009,CVS Pharmacy #1009,Northeast,OTC Medicine Item 25,OTC Medicine,155,10,28,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Beauty Item 26,Beauty,147,34,113,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 27,Personal Care,68,37,0,N,N
+STR0009,CVS Pharmacy #1009,Northeast,OTC Medicine Item 28,OTC Medicine,20,38,150,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Snacks Item 29,Snacks,177,32,15,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Snacks Item 30,Snacks,13,35,147,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 31,Vitamins,8,20,11,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Baby Care Item 32,Baby Care,0,13,17,Y,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 33,Health Devices,88,38,35,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Snacks Item 34,Snacks,80,17,50,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 35,Vitamins,42,33,109,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Seasonal Item 36,Seasonal,95,27,24,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Baby Care Item 37,Baby Care,79,15,145,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 38,Health Devices,158,22,129,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 39,Health Devices,167,35,86,N,N
+STR0009,CVS Pharmacy #1009,Northeast,OTC Medicine Item 40,OTC Medicine,158,27,61,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 41,Personal Care,30,15,36,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 42,Vitamins,131,37,16,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 43,Household,107,27,32,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 44,Household,124,13,71,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Vitamins Item 45,Vitamins,8,12,124,N,Y
+STR0009,CVS Pharmacy #1009,Northeast,Snacks Item 46,Snacks,188,11,70,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Personal Care Item 47,Personal Care,113,36,115,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 48,Household,32,18,2,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Household Item 49,Household,57,14,43,N,N
+STR0009,CVS Pharmacy #1009,Northeast,Health Devices Item 50,Health Devices,68,12,130,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 1,Household,155,32,121,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 2,Personal Care,63,33,53,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 3,Household,106,36,21,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 4,Personal Care,185,32,3,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 5,Personal Care,111,39,119,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 6,Health Devices,103,13,150,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 7,Health Devices,106,12,79,N,N
+STR0010,CVS Pharmacy #1010,South,OTC Medicine Item 8,OTC Medicine,160,32,47,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 9,Vitamins,84,33,15,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 10,Personal Care,68,35,70,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 11,Health Devices,118,12,53,N,N
+STR0010,CVS Pharmacy #1010,South,Snacks Item 12,Snacks,106,16,124,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 13,Vitamins,104,24,57,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 14,Vitamins,138,15,38,N,N
+STR0010,CVS Pharmacy #1010,South,Baby Care Item 15,Baby Care,75,31,81,N,N
+STR0010,CVS Pharmacy #1010,South,Beauty Item 16,Beauty,143,19,108,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 17,Household,187,20,5,N,N
+STR0010,CVS Pharmacy #1010,South,Seasonal Item 18,Seasonal,186,32,70,N,N
+STR0010,CVS Pharmacy #1010,South,OTC Medicine Item 19,OTC Medicine,109,13,38,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 20,Vitamins,35,32,43,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 21,Personal Care,108,14,63,N,N
+STR0010,CVS Pharmacy #1010,South,Seasonal Item 22,Seasonal,70,33,38,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 23,Household,181,27,137,N,N
+STR0010,CVS Pharmacy #1010,South,Beauty Item 24,Beauty,83,28,150,N,N
+STR0010,CVS Pharmacy #1010,South,OTC Medicine Item 25,OTC Medicine,181,17,126,N,N
+STR0010,CVS Pharmacy #1010,South,Beauty Item 26,Beauty,155,17,66,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 27,Personal Care,11,34,65,N,Y
+STR0010,CVS Pharmacy #1010,South,OTC Medicine Item 28,OTC Medicine,93,12,116,N,N
+STR0010,CVS Pharmacy #1010,South,Snacks Item 29,Snacks,125,12,72,N,N
+STR0010,CVS Pharmacy #1010,South,Snacks Item 30,Snacks,187,20,95,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 31,Vitamins,61,23,113,N,N
+STR0010,CVS Pharmacy #1010,South,Baby Care Item 32,Baby Care,113,19,97,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 33,Health Devices,64,23,35,N,N
+STR0010,CVS Pharmacy #1010,South,Snacks Item 34,Snacks,37,19,84,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 35,Vitamins,108,19,130,N,N
+STR0010,CVS Pharmacy #1010,South,Seasonal Item 36,Seasonal,55,10,1,N,N
+STR0010,CVS Pharmacy #1010,South,Baby Care Item 37,Baby Care,106,11,41,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 38,Health Devices,34,35,124,N,Y
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 39,Health Devices,41,10,68,N,N
+STR0010,CVS Pharmacy #1010,South,OTC Medicine Item 40,OTC Medicine,16,29,115,N,Y
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 41,Personal Care,144,17,75,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 42,Vitamins,5,37,22,N,Y
+STR0010,CVS Pharmacy #1010,South,Household Item 43,Household,150,12,80,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 44,Household,49,26,59,N,N
+STR0010,CVS Pharmacy #1010,South,Vitamins Item 45,Vitamins,74,29,49,N,N
+STR0010,CVS Pharmacy #1010,South,Snacks Item 46,Snacks,121,25,54,N,N
+STR0010,CVS Pharmacy #1010,South,Personal Care Item 47,Personal Care,38,26,126,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 48,Household,109,37,120,N,N
+STR0010,CVS Pharmacy #1010,South,Household Item 49,Household,63,24,125,N,N
+STR0010,CVS Pharmacy #1010,South,Health Devices Item 50,Health Devices,77,14,117,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 1,Household,68,32,145,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 2,Personal Care,55,39,149,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 3,Household,10,20,118,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 4,Personal Care,14,18,30,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 5,Personal Care,28,38,20,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 6,Health Devices,96,28,89,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 7,Health Devices,51,25,32,N,N
+STR0011,CVS Pharmacy #1011,Southeast,OTC Medicine Item 8,OTC Medicine,95,34,18,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 9,Vitamins,1,16,68,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 10,Personal Care,198,15,71,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 11,Health Devices,89,13,144,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Snacks Item 12,Snacks,79,11,39,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 13,Vitamins,187,13,7,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 14,Vitamins,133,21,69,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Baby Care Item 15,Baby Care,98,31,26,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Beauty Item 16,Beauty,133,14,115,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 17,Household,194,19,96,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Seasonal Item 18,Seasonal,134,24,65,N,N
+STR0011,CVS Pharmacy #1011,Southeast,OTC Medicine Item 19,OTC Medicine,170,10,48,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 20,Vitamins,92,30,127,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 21,Personal Care,36,33,91,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Seasonal Item 22,Seasonal,197,29,55,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 23,Household,190,10,86,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Beauty Item 24,Beauty,174,15,54,N,N
+STR0011,CVS Pharmacy #1011,Southeast,OTC Medicine Item 25,OTC Medicine,196,32,49,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Beauty Item 26,Beauty,149,31,148,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 27,Personal Care,26,37,33,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,OTC Medicine Item 28,OTC Medicine,101,12,9,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Snacks Item 29,Snacks,188,32,143,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Snacks Item 30,Snacks,154,35,150,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 31,Vitamins,94,38,123,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Baby Care Item 32,Baby Care,54,11,77,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 33,Health Devices,168,33,49,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Snacks Item 34,Snacks,75,17,105,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 35,Vitamins,172,11,79,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Seasonal Item 36,Seasonal,148,28,30,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Baby Care Item 37,Baby Care,92,25,120,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 38,Health Devices,128,10,130,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 39,Health Devices,177,14,79,N,N
+STR0011,CVS Pharmacy #1011,Southeast,OTC Medicine Item 40,OTC Medicine,49,38,18,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 41,Personal Care,30,27,32,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 42,Vitamins,113,14,96,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 43,Household,165,34,9,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 44,Household,85,29,1,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Vitamins Item 45,Vitamins,90,10,52,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Snacks Item 46,Snacks,94,24,51,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Personal Care Item 47,Personal Care,15,40,46,N,Y
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 48,Household,44,33,69,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Household Item 49,Household,100,12,14,N,N
+STR0011,CVS Pharmacy #1011,Southeast,Health Devices Item 50,Health Devices,55,28,138,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 1,Household,120,37,26,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 2,Personal Care,165,12,87,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 3,Household,61,11,42,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 4,Personal Care,181,36,137,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 5,Personal Care,71,39,32,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 6,Health Devices,106,37,142,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 7,Health Devices,65,32,93,N,N
+STR0012,CVS Pharmacy #1012,West,OTC Medicine Item 8,OTC Medicine,164,34,55,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 9,Vitamins,124,34,70,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 10,Personal Care,30,23,149,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 11,Health Devices,34,34,137,N,Y
+STR0012,CVS Pharmacy #1012,West,Snacks Item 12,Snacks,73,36,64,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 13,Vitamins,137,29,127,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 14,Vitamins,5,28,60,N,Y
+STR0012,CVS Pharmacy #1012,West,Baby Care Item 15,Baby Care,134,14,1,N,N
+STR0012,CVS Pharmacy #1012,West,Beauty Item 16,Beauty,38,16,134,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 17,Household,180,13,60,N,N
+STR0012,CVS Pharmacy #1012,West,Seasonal Item 18,Seasonal,23,24,23,N,Y
+STR0012,CVS Pharmacy #1012,West,OTC Medicine Item 19,OTC Medicine,78,13,127,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 20,Vitamins,101,10,29,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 21,Personal Care,52,24,67,N,N
+STR0012,CVS Pharmacy #1012,West,Seasonal Item 22,Seasonal,162,33,119,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 23,Household,72,13,25,N,N
+STR0012,CVS Pharmacy #1012,West,Beauty Item 24,Beauty,53,15,58,N,N
+STR0012,CVS Pharmacy #1012,West,OTC Medicine Item 25,OTC Medicine,199,31,9,N,N
+STR0012,CVS Pharmacy #1012,West,Beauty Item 26,Beauty,196,23,29,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 27,Personal Care,53,22,83,N,N
+STR0012,CVS Pharmacy #1012,West,OTC Medicine Item 28,OTC Medicine,148,30,52,N,N
+STR0012,CVS Pharmacy #1012,West,Snacks Item 29,Snacks,70,21,92,N,N
+STR0012,CVS Pharmacy #1012,West,Snacks Item 30,Snacks,104,30,50,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 31,Vitamins,175,21,37,N,N
+STR0012,CVS Pharmacy #1012,West,Baby Care Item 32,Baby Care,148,34,68,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 33,Health Devices,137,26,86,N,N
+STR0012,CVS Pharmacy #1012,West,Snacks Item 34,Snacks,195,23,73,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 35,Vitamins,10,29,48,N,Y
+STR0012,CVS Pharmacy #1012,West,Seasonal Item 36,Seasonal,43,38,35,N,N
+STR0012,CVS Pharmacy #1012,West,Baby Care Item 37,Baby Care,89,11,91,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 38,Health Devices,35,36,138,N,Y
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 39,Health Devices,183,20,103,N,N
+STR0012,CVS Pharmacy #1012,West,OTC Medicine Item 40,OTC Medicine,49,29,39,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 41,Personal Care,153,23,76,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 42,Vitamins,178,40,82,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 43,Household,136,40,94,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 44,Household,71,21,70,N,N
+STR0012,CVS Pharmacy #1012,West,Vitamins Item 45,Vitamins,134,33,43,N,N
+STR0012,CVS Pharmacy #1012,West,Snacks Item 46,Snacks,31,12,14,N,N
+STR0012,CVS Pharmacy #1012,West,Personal Care Item 47,Personal Care,183,24,71,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 48,Household,70,13,37,N,N
+STR0012,CVS Pharmacy #1012,West,Household Item 49,Household,42,26,54,N,N
+STR0012,CVS Pharmacy #1012,West,Health Devices Item 50,Health Devices,89,23,70,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 1,Household,89,22,31,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 2,Personal Care,186,29,66,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 3,Household,160,33,119,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 4,Personal Care,67,28,44,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 5,Personal Care,94,38,97,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 6,Health Devices,45,12,144,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 7,Health Devices,16,38,111,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,OTC Medicine Item 8,OTC Medicine,121,16,34,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 9,Vitamins,125,13,6,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 10,Personal Care,18,31,22,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 11,Health Devices,149,11,139,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Snacks Item 12,Snacks,127,22,123,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 13,Vitamins,138,33,12,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 14,Vitamins,28,39,76,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,Baby Care Item 15,Baby Care,69,30,104,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Beauty Item 16,Beauty,153,17,50,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 17,Household,66,36,77,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Seasonal Item 18,Seasonal,67,13,36,N,N
+STR0013,CVS Pharmacy #1013,Midwest,OTC Medicine Item 19,OTC Medicine,118,21,132,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 20,Vitamins,120,19,62,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 21,Personal Care,200,23,124,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Seasonal Item 22,Seasonal,72,18,90,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 23,Household,90,21,108,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Beauty Item 24,Beauty,1,37,150,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,OTC Medicine Item 25,OTC Medicine,132,28,81,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Beauty Item 26,Beauty,58,32,106,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 27,Personal Care,161,15,134,N,N
+STR0013,CVS Pharmacy #1013,Midwest,OTC Medicine Item 28,OTC Medicine,21,16,9,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Snacks Item 29,Snacks,22,21,81,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Snacks Item 30,Snacks,196,27,46,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 31,Vitamins,129,25,17,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Baby Care Item 32,Baby Care,20,13,28,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 33,Health Devices,117,29,77,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Snacks Item 34,Snacks,35,25,71,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 35,Vitamins,133,22,140,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Seasonal Item 36,Seasonal,140,21,46,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Baby Care Item 37,Baby Care,3,39,24,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 38,Health Devices,184,36,53,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 39,Health Devices,160,36,18,N,N
+STR0013,CVS Pharmacy #1013,Midwest,OTC Medicine Item 40,OTC Medicine,51,25,150,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 41,Personal Care,182,27,66,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 42,Vitamins,33,10,23,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 43,Household,160,21,56,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 44,Household,10,30,89,N,Y
+STR0013,CVS Pharmacy #1013,Midwest,Vitamins Item 45,Vitamins,71,19,44,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Snacks Item 46,Snacks,170,39,79,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Personal Care Item 47,Personal Care,154,17,10,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 48,Household,76,18,104,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Household Item 49,Household,169,16,110,N,N
+STR0013,CVS Pharmacy #1013,Midwest,Health Devices Item 50,Health Devices,155,15,41,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 1,Household,62,26,93,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 2,Personal Care,153,29,116,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 3,Household,22,17,8,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 4,Personal Care,17,12,7,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 5,Personal Care,190,20,150,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 6,Health Devices,64,35,56,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 7,Health Devices,169,18,86,N,N
+STR0014,CVS Pharmacy #1014,Northeast,OTC Medicine Item 8,OTC Medicine,92,37,98,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 9,Vitamins,112,16,117,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 10,Personal Care,107,13,18,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 11,Health Devices,165,30,1,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Snacks Item 12,Snacks,122,14,28,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 13,Vitamins,38,26,117,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 14,Vitamins,113,18,77,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Baby Care Item 15,Baby Care,119,21,121,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Beauty Item 16,Beauty,50,15,134,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 17,Household,52,16,37,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Seasonal Item 18,Seasonal,134,16,43,N,N
+STR0014,CVS Pharmacy #1014,Northeast,OTC Medicine Item 19,OTC Medicine,16,35,94,N,Y
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 20,Vitamins,120,40,37,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 21,Personal Care,86,11,29,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Seasonal Item 22,Seasonal,34,12,133,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 23,Household,113,14,65,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Beauty Item 24,Beauty,75,18,14,N,N
+STR0014,CVS Pharmacy #1014,Northeast,OTC Medicine Item 25,OTC Medicine,186,17,40,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Beauty Item 26,Beauty,3,39,120,N,Y
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 27,Personal Care,139,30,68,N,N
+STR0014,CVS Pharmacy #1014,Northeast,OTC Medicine Item 28,OTC Medicine,86,13,114,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Snacks Item 29,Snacks,86,18,3,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Snacks Item 30,Snacks,46,37,39,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 31,Vitamins,58,11,145,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Baby Care Item 32,Baby Care,186,14,89,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 33,Health Devices,46,34,62,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Snacks Item 34,Snacks,106,32,96,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 35,Vitamins,89,22,150,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Seasonal Item 36,Seasonal,112,14,16,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Baby Care Item 37,Baby Care,15,19,46,N,Y
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 38,Health Devices,158,16,13,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 39,Health Devices,41,35,94,N,N
+STR0014,CVS Pharmacy #1014,Northeast,OTC Medicine Item 40,OTC Medicine,20,21,60,N,Y
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 41,Personal Care,182,27,115,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 42,Vitamins,0,34,54,Y,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 43,Household,49,21,144,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 44,Household,163,37,34,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Vitamins Item 45,Vitamins,84,11,25,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Snacks Item 46,Snacks,34,37,111,N,Y
+STR0014,CVS Pharmacy #1014,Northeast,Personal Care Item 47,Personal Care,91,14,26,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 48,Household,69,25,49,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Household Item 49,Household,27,15,96,N,N
+STR0014,CVS Pharmacy #1014,Northeast,Health Devices Item 50,Health Devices,46,20,106,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 1,Household,132,13,69,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 2,Personal Care,97,25,118,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 3,Household,148,37,149,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 4,Personal Care,193,15,115,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 5,Personal Care,123,16,98,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 6,Health Devices,38,27,144,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 7,Health Devices,17,21,38,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,OTC Medicine Item 8,OTC Medicine,2,17,110,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 9,Vitamins,162,27,122,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 10,Personal Care,152,29,52,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 11,Health Devices,157,33,103,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Snacks Item 12,Snacks,132,20,103,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 13,Vitamins,120,32,47,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 14,Vitamins,79,17,137,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Baby Care Item 15,Baby Care,193,13,37,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Beauty Item 16,Beauty,171,39,20,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 17,Household,128,40,47,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Seasonal Item 18,Seasonal,93,29,72,N,N
+STR0015,CVS Pharmacy #1015,Southeast,OTC Medicine Item 19,OTC Medicine,8,22,119,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 20,Vitamins,72,14,20,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 21,Personal Care,150,30,73,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Seasonal Item 22,Seasonal,189,10,134,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 23,Household,144,14,74,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Beauty Item 24,Beauty,43,28,58,N,N
+STR0015,CVS Pharmacy #1015,Southeast,OTC Medicine Item 25,OTC Medicine,160,32,125,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Beauty Item 26,Beauty,51,17,18,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 27,Personal Care,155,37,105,N,N
+STR0015,CVS Pharmacy #1015,Southeast,OTC Medicine Item 28,OTC Medicine,192,20,83,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Snacks Item 29,Snacks,93,13,0,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Snacks Item 30,Snacks,187,11,48,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 31,Vitamins,52,35,38,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Baby Care Item 32,Baby Care,141,31,74,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 33,Health Devices,98,20,147,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Snacks Item 34,Snacks,170,19,92,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 35,Vitamins,49,22,71,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Seasonal Item 36,Seasonal,87,25,62,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Baby Care Item 37,Baby Care,94,23,62,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 38,Health Devices,39,36,97,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 39,Health Devices,15,30,30,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,OTC Medicine Item 40,OTC Medicine,116,33,69,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 41,Personal Care,107,34,6,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 42,Vitamins,197,24,64,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 43,Household,11,29,140,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 44,Household,139,13,28,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Vitamins Item 45,Vitamins,13,30,64,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,Snacks Item 46,Snacks,18,31,121,N,Y
+STR0015,CVS Pharmacy #1015,Southeast,Personal Care Item 47,Personal Care,93,13,143,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 48,Household,128,27,143,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Household Item 49,Household,100,38,66,N,N
+STR0015,CVS Pharmacy #1015,Southeast,Health Devices Item 50,Health Devices,55,38,98,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 1,Household,10,23,145,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 2,Personal Care,86,35,15,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 3,Household,38,38,38,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 4,Personal Care,104,40,103,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 5,Personal Care,159,19,25,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 6,Health Devices,69,21,28,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 7,Health Devices,199,28,131,N,N
+STR0016,CVS Pharmacy #1016,Midwest,OTC Medicine Item 8,OTC Medicine,112,10,107,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 9,Vitamins,155,21,112,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 10,Personal Care,83,20,75,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 11,Health Devices,149,17,78,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Snacks Item 12,Snacks,177,27,121,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 13,Vitamins,199,16,69,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 14,Vitamins,124,13,112,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Baby Care Item 15,Baby Care,36,38,77,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Beauty Item 16,Beauty,63,32,86,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 17,Household,36,32,66,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Seasonal Item 18,Seasonal,13,28,111,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,OTC Medicine Item 19,OTC Medicine,117,24,15,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 20,Vitamins,176,37,60,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 21,Personal Care,5,40,71,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Seasonal Item 22,Seasonal,194,23,72,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 23,Household,6,29,58,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Beauty Item 24,Beauty,117,15,38,N,N
+STR0016,CVS Pharmacy #1016,Midwest,OTC Medicine Item 25,OTC Medicine,102,38,106,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Beauty Item 26,Beauty,137,11,36,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 27,Personal Care,119,28,128,N,N
+STR0016,CVS Pharmacy #1016,Midwest,OTC Medicine Item 28,OTC Medicine,84,39,87,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Snacks Item 29,Snacks,100,10,29,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Snacks Item 30,Snacks,179,10,23,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 31,Vitamins,71,24,148,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Baby Care Item 32,Baby Care,95,26,132,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 33,Health Devices,95,26,47,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Snacks Item 34,Snacks,167,15,41,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 35,Vitamins,18,18,110,N,Y
+STR0016,CVS Pharmacy #1016,Midwest,Seasonal Item 36,Seasonal,103,21,48,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Baby Care Item 37,Baby Care,86,12,95,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 38,Health Devices,33,26,105,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 39,Health Devices,154,37,44,N,N
+STR0016,CVS Pharmacy #1016,Midwest,OTC Medicine Item 40,OTC Medicine,143,14,114,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 41,Personal Care,200,36,117,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 42,Vitamins,79,25,13,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 43,Household,187,25,90,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 44,Household,58,36,127,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Vitamins Item 45,Vitamins,163,27,48,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Snacks Item 46,Snacks,161,11,99,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Personal Care Item 47,Personal Care,62,22,135,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 48,Household,72,13,132,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Household Item 49,Household,64,14,18,N,N
+STR0016,CVS Pharmacy #1016,Midwest,Health Devices Item 50,Health Devices,197,13,62,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 1,Household,191,12,139,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 2,Personal Care,133,22,114,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 3,Household,21,15,9,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 4,Personal Care,172,39,39,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 5,Personal Care,193,31,130,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 6,Health Devices,101,11,16,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 7,Health Devices,168,16,20,N,N
+STR0017,CVS Pharmacy #1017,West,OTC Medicine Item 8,OTC Medicine,9,10,74,N,Y
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 9,Vitamins,133,17,138,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 10,Personal Care,79,21,102,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 11,Health Devices,76,32,104,N,N
+STR0017,CVS Pharmacy #1017,West,Snacks Item 12,Snacks,26,17,86,N,N
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 13,Vitamins,135,38,133,N,N
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 14,Vitamins,188,32,35,N,N
+STR0017,CVS Pharmacy #1017,West,Baby Care Item 15,Baby Care,123,19,36,N,N
+STR0017,CVS Pharmacy #1017,West,Beauty Item 16,Beauty,159,26,80,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 17,Household,21,13,8,N,N
+STR0017,CVS Pharmacy #1017,West,Seasonal Item 18,Seasonal,194,31,99,N,N
+STR0017,CVS Pharmacy #1017,West,OTC Medicine Item 19,OTC Medicine,24,28,38,N,Y
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 20,Vitamins,27,37,37,N,Y
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 21,Personal Care,188,21,100,N,N
+STR0017,CVS Pharmacy #1017,West,Seasonal Item 22,Seasonal,149,30,59,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 23,Household,190,40,9,N,N
+STR0017,CVS Pharmacy #1017,West,Beauty Item 24,Beauty,3,37,105,N,Y
+STR0017,CVS Pharmacy #1017,West,OTC Medicine Item 25,OTC Medicine,171,30,148,N,N
+STR0017,CVS Pharmacy #1017,West,Beauty Item 26,Beauty,64,25,112,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 27,Personal Care,151,35,69,N,N
+STR0017,CVS Pharmacy #1017,West,OTC Medicine Item 28,OTC Medicine,25,39,30,N,Y
+STR0017,CVS Pharmacy #1017,West,Snacks Item 29,Snacks,160,35,82,N,N
+STR0017,CVS Pharmacy #1017,West,Snacks Item 30,Snacks,26,29,54,N,Y
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 31,Vitamins,77,24,102,N,N
+STR0017,CVS Pharmacy #1017,West,Baby Care Item 32,Baby Care,81,13,99,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 33,Health Devices,8,16,6,N,Y
+STR0017,CVS Pharmacy #1017,West,Snacks Item 34,Snacks,134,15,1,N,N
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 35,Vitamins,11,15,2,N,Y
+STR0017,CVS Pharmacy #1017,West,Seasonal Item 36,Seasonal,177,20,140,N,N
+STR0017,CVS Pharmacy #1017,West,Baby Care Item 37,Baby Care,95,20,146,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 38,Health Devices,102,14,108,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 39,Health Devices,10,27,36,N,Y
+STR0017,CVS Pharmacy #1017,West,OTC Medicine Item 40,OTC Medicine,90,10,49,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 41,Personal Care,12,12,11,N,Y
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 42,Vitamins,10,10,143,N,Y
+STR0017,CVS Pharmacy #1017,West,Household Item 43,Household,6,16,104,N,Y
+STR0017,CVS Pharmacy #1017,West,Household Item 44,Household,49,17,78,N,N
+STR0017,CVS Pharmacy #1017,West,Vitamins Item 45,Vitamins,131,35,110,N,N
+STR0017,CVS Pharmacy #1017,West,Snacks Item 46,Snacks,57,40,123,N,N
+STR0017,CVS Pharmacy #1017,West,Personal Care Item 47,Personal Care,72,23,84,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 48,Household,144,23,107,N,N
+STR0017,CVS Pharmacy #1017,West,Household Item 49,Household,169,20,96,N,N
+STR0017,CVS Pharmacy #1017,West,Health Devices Item 50,Health Devices,59,22,133,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 1,Household,54,28,132,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 2,Personal Care,122,32,7,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 3,Household,140,34,44,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 4,Personal Care,26,35,20,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 5,Personal Care,178,35,35,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 6,Health Devices,89,32,49,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 7,Health Devices,76,28,75,N,N
+STR0018,CVS Pharmacy #1018,Southeast,OTC Medicine Item 8,OTC Medicine,125,13,116,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 9,Vitamins,169,38,23,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 10,Personal Care,125,15,1,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 11,Health Devices,117,24,49,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Snacks Item 12,Snacks,197,16,25,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 13,Vitamins,81,23,136,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 14,Vitamins,165,40,87,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Baby Care Item 15,Baby Care,57,32,52,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Beauty Item 16,Beauty,2,19,42,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 17,Household,8,29,9,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Seasonal Item 18,Seasonal,80,21,103,N,N
+STR0018,CVS Pharmacy #1018,Southeast,OTC Medicine Item 19,OTC Medicine,198,36,127,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 20,Vitamins,194,34,105,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 21,Personal Care,57,39,69,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Seasonal Item 22,Seasonal,95,28,105,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 23,Household,140,14,14,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Beauty Item 24,Beauty,27,25,55,N,N
+STR0018,CVS Pharmacy #1018,Southeast,OTC Medicine Item 25,OTC Medicine,70,35,27,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Beauty Item 26,Beauty,186,10,144,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 27,Personal Care,178,23,49,N,N
+STR0018,CVS Pharmacy #1018,Southeast,OTC Medicine Item 28,OTC Medicine,32,37,142,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Snacks Item 29,Snacks,163,22,60,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Snacks Item 30,Snacks,20,14,72,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 31,Vitamins,34,22,52,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Baby Care Item 32,Baby Care,9,23,133,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 33,Health Devices,58,37,1,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Snacks Item 34,Snacks,77,39,20,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 35,Vitamins,81,28,22,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Seasonal Item 36,Seasonal,195,28,140,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Baby Care Item 37,Baby Care,6,16,141,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 38,Health Devices,55,33,51,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 39,Health Devices,120,30,103,N,N
+STR0018,CVS Pharmacy #1018,Southeast,OTC Medicine Item 40,OTC Medicine,65,15,83,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 41,Personal Care,166,38,1,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 42,Vitamins,82,35,115,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 43,Household,198,14,128,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 44,Household,157,40,103,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Vitamins Item 45,Vitamins,71,19,97,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Snacks Item 46,Snacks,46,21,56,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Personal Care Item 47,Personal Care,188,26,3,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 48,Household,129,29,66,N,N
+STR0018,CVS Pharmacy #1018,Southeast,Household Item 49,Household,16,39,65,N,Y
+STR0018,CVS Pharmacy #1018,Southeast,Health Devices Item 50,Health Devices,77,16,53,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 1,Household,128,24,89,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 2,Personal Care,163,10,14,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 3,Household,145,30,37,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 4,Personal Care,178,31,148,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 5,Personal Care,15,19,104,N,Y
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 6,Health Devices,75,29,34,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 7,Health Devices,151,29,123,N,N
+STR0019,CVS Pharmacy #1019,Midwest,OTC Medicine Item 8,OTC Medicine,7,38,131,N,Y
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 9,Vitamins,57,37,84,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 10,Personal Care,131,11,111,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 11,Health Devices,67,26,92,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Snacks Item 12,Snacks,109,27,115,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 13,Vitamins,13,39,13,N,Y
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 14,Vitamins,89,36,120,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Baby Care Item 15,Baby Care,46,23,125,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Beauty Item 16,Beauty,196,26,68,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 17,Household,94,17,107,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Seasonal Item 18,Seasonal,110,29,142,N,N
+STR0019,CVS Pharmacy #1019,Midwest,OTC Medicine Item 19,OTC Medicine,126,27,50,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 20,Vitamins,61,18,128,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 21,Personal Care,120,19,39,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Seasonal Item 22,Seasonal,39,25,84,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 23,Household,39,26,130,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Beauty Item 24,Beauty,127,32,148,N,N
+STR0019,CVS Pharmacy #1019,Midwest,OTC Medicine Item 25,OTC Medicine,127,32,82,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Beauty Item 26,Beauty,191,24,146,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 27,Personal Care,159,24,98,N,N
+STR0019,CVS Pharmacy #1019,Midwest,OTC Medicine Item 28,OTC Medicine,192,38,43,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Snacks Item 29,Snacks,119,14,84,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Snacks Item 30,Snacks,143,20,148,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 31,Vitamins,67,40,46,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Baby Care Item 32,Baby Care,156,39,102,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 33,Health Devices,112,24,72,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Snacks Item 34,Snacks,73,36,11,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 35,Vitamins,143,34,123,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Seasonal Item 36,Seasonal,169,31,27,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Baby Care Item 37,Baby Care,184,34,118,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 38,Health Devices,100,36,70,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 39,Health Devices,189,11,142,N,N
+STR0019,CVS Pharmacy #1019,Midwest,OTC Medicine Item 40,OTC Medicine,139,13,134,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 41,Personal Care,120,34,110,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 42,Vitamins,7,30,79,N,Y
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 43,Household,113,35,106,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 44,Household,19,17,9,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Vitamins Item 45,Vitamins,31,13,113,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Snacks Item 46,Snacks,43,36,131,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Personal Care Item 47,Personal Care,36,24,0,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 48,Household,178,27,78,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Household Item 49,Household,139,30,27,N,N
+STR0019,CVS Pharmacy #1019,Midwest,Health Devices Item 50,Health Devices,113,31,5,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 1,Household,119,23,86,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 2,Personal Care,192,34,50,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 3,Household,177,24,145,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 4,Personal Care,14,37,15,N,Y
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 5,Personal Care,66,13,138,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 6,Health Devices,120,12,144,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 7,Health Devices,103,26,136,N,N
+STR0020,CVS Pharmacy #1020,Midwest,OTC Medicine Item 8,OTC Medicine,41,18,139,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 9,Vitamins,136,21,17,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 10,Personal Care,162,31,54,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 11,Health Devices,137,12,0,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Snacks Item 12,Snacks,24,33,26,N,Y
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 13,Vitamins,173,22,73,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 14,Vitamins,139,20,144,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Baby Care Item 15,Baby Care,153,26,127,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Beauty Item 16,Beauty,179,20,114,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 17,Household,53,19,13,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Seasonal Item 18,Seasonal,75,12,125,N,N
+STR0020,CVS Pharmacy #1020,Midwest,OTC Medicine Item 19,OTC Medicine,134,27,54,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 20,Vitamins,135,27,131,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 21,Personal Care,70,16,32,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Seasonal Item 22,Seasonal,119,39,32,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 23,Household,119,13,130,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Beauty Item 24,Beauty,87,33,19,N,N
+STR0020,CVS Pharmacy #1020,Midwest,OTC Medicine Item 25,OTC Medicine,170,10,85,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Beauty Item 26,Beauty,147,21,89,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 27,Personal Care,196,24,33,N,N
+STR0020,CVS Pharmacy #1020,Midwest,OTC Medicine Item 28,OTC Medicine,96,31,74,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Snacks Item 29,Snacks,131,17,145,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Snacks Item 30,Snacks,55,21,31,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 31,Vitamins,66,23,144,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Baby Care Item 32,Baby Care,199,11,33,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 33,Health Devices,15,36,12,N,Y
+STR0020,CVS Pharmacy #1020,Midwest,Snacks Item 34,Snacks,55,17,20,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 35,Vitamins,165,18,86,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Seasonal Item 36,Seasonal,170,29,97,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Baby Care Item 37,Baby Care,77,14,45,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 38,Health Devices,56,24,138,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 39,Health Devices,9,36,107,N,Y
+STR0020,CVS Pharmacy #1020,Midwest,OTC Medicine Item 40,OTC Medicine,52,32,136,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 41,Personal Care,143,16,67,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 42,Vitamins,179,36,38,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 43,Household,92,18,25,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 44,Household,144,26,24,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Vitamins Item 45,Vitamins,199,40,110,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Snacks Item 46,Snacks,79,30,15,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Personal Care Item 47,Personal Care,27,38,88,N,Y
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 48,Household,178,20,95,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Household Item 49,Household,165,40,33,N,N
+STR0020,CVS Pharmacy #1020,Midwest,Health Devices Item 50,Health Devices,15,14,128,N,N

@@ -1,0 +1,21 @@
+DRUG_NAME,CONDITION,TOTAL_PRESCRIPTIONS,AVG_COPAY,AVG_RETAIL_PRICE,GENERIC_COUNT,BRAND_COUNT
+Sertraline,Depression,116,38.88,190.26,70,46
+Atorvastatin,Cholesterol,114,38.46,186.44,72,42
+Amlodipine,Hypertension,113,40.06,188.81,70,43
+Montelukast,Asthma,112,36.99,190.02,73,39
+Lisinopril,Hypertension,110,36.5,188.89,73,37
+Escitalopram,Anxiety,105,34.67,187.16,64,41
+Pantoprazole,GERD,104,40.38,199.28,77,27
+Trazodone,Sleep,104,38.49,187.48,67,37
+Omeprazole,GERD,103,34.21,176.76,62,41
+Bupropion,Depression,98,37.13,179.84,66,32
+Gabapentin,Nerve Pain,97,34.24,175.7,72,25
+Metformin,Diabetes,96,33.12,195.22,71,25
+Hydrocodone,Pain,95,35.68,191.7,71,24
+Metoprolol,Heart,94,37.36,183.49,70,24
+Albuterol,Asthma,92,35.29,190.08,58,34
+Rosuvastatin,Cholesterol,92,37.61,202.72,61,31
+Fluoxetine,Depression,92,37.67,185.52,68,24
+Amoxicillin,Antibiotic,91,37.27,186.5,64,27
+Losartan,Hypertension,88,33.29,182.27,59,29
+Levothyroxine,Thyroid,84,35.62,183.3,51,33
