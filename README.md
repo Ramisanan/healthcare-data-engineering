@@ -169,6 +169,20 @@ healthcare-data-engineering/
 └── README.md                        # Project documentation
 ```
 
+
+## Dataiku Pipeline
+Healthcare Data Quality Pipeline built in Dataiku Cloud.
+
+### Flow
+inventory_status → [Prepare Recipe] → inventory_status_prepared → [Python Recipe] → inventory_reorder_recommendations
+
+### What it does
+- Filters critical stockout products
+- Calculates reorder quantities
+- Assigns priority levels (CRITICAL/HIGH/NORMAL)
+- Generates reorder recommendations
+
+
 ## How to Run Locally
 
 ### Prerequisites
