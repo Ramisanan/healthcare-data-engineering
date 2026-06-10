@@ -9,7 +9,7 @@ import dataiku
 import pandas as pd
 from datetime import datetime
 
-# Read input dataset 
+# Read input dataset
 inventory_prepared = dataiku.Dataset("inventory_status_prepared")
 df = inventory_prepared.get_dataframe()
 
@@ -29,6 +29,8 @@ df["recommended_reorder_qty"] = (
 ).astype(int)
 
 # Assign priority level
+
+
 def get_priority(row):
     if row["STOCKOUT_FLAG"] == "Y":
         return "CRITICAL"
@@ -36,6 +38,7 @@ def get_priority(row):
         return "HIGH"
     else:
         return "NORMAL"
+
 
 df["reorder_priority"] = df.apply(get_priority, axis=1)
 
