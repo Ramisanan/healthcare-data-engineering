@@ -6,7 +6,6 @@ Automates data transformation to identify reorder needs
 """
 
 import dataiku
-import pandas as pd
 from datetime import datetime
 
 # Read input dataset
